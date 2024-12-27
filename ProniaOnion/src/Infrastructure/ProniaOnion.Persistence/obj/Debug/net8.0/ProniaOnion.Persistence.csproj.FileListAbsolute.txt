@@ -1,0 +1,11 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\bin\Debug\net8.0\ProniaOnion.Persistence.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\bin\Debug\net8.0\ProniaOnion.Persistence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\bin\Debug\net8.0\ProniaOnion.Persistence.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\ProniaOnion.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\ProniaOnion.Persistence.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\ProniaOnion.Persistence.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\ProniaOnion.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\ProniaOnion.Persistence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\refint\ProniaOnion.Persistence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\ProniaOnion.Persistence.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ProniaOnion\src\Infrastructure\ProniaOnion.Persistence\obj\Debug\net8.0\ref\ProniaOnion.Persistence.dll
