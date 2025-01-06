@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/vXazhdNYYSK/s4IG+myyHvG5Z/eZrjb5aIWiOrDtui8gzzlpYvnv2IoqCNxbb3t+9miulcWXfsfhdVVgPtKQw==",
+  "dgSpecHash": "erqDiPwHViHWqdc3AlQdXDLa7Fu8im47res/koySveipCiPx92JLF4B3Aqcabz8ZUHIS7jDQLcbwXZ7JkkW31A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\sabir\\Desktop\\ProniaOnion\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabir\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.11\\microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
