@@ -13,6 +13,7 @@ namespace ProniaOnion.Application.Abstractions.Repositories
           int take = 0,
           bool isDescending = false,
           bool isTracking = false,
+          bool ignoreQuery = false,
           params string[]? includes
           );
 
