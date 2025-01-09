@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace ProniaOnion.Application.Validators
 {
-    public class CreateProductDtoValidator:AbstractValidator<CreateProductDto>
+    public class UpdateProductDtoValidator:AbstractValidator<UpdateProductDto>
     {
         public const int NAME_MAX_LENGTH = 100;
-        public CreateProductDtoValidator()
+        public UpdateProductDtoValidator()
         {
             RuleFor(p => p.Name)
                 .NotEmpty()
@@ -38,7 +38,9 @@ namespace ProniaOnion.Application.Validators
 
             RuleForEach(p => p.ColorIds)
                 .NotEmpty()
-                .Must(colorId => colorId > 0);
+                .Must(colorId => colorId > 0)
+                    .WithMessage("Color Id is not correct");
+
 
             //RuleFor(p => p.ColorIds)
             //    .NotEmpty()
